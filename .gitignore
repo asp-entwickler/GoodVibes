@@ -13,6 +13,7 @@
 *.userprefs
 
 # Build results
+obj/*
 bin/*
 [Dd]ebug/
 [Dd]ebugPublic/
