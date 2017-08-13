@@ -1,2 +1,2 @@
-# 1moment: DOS
-Document Oriented System / Docupent Operation System
+# 1moment: GoodVibes
+Document Operation - Oriented  System
